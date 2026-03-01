@@ -22,7 +22,7 @@ Proyek ini dikembangkan untuk mengikuti **Kompetisi Sains Siswa Muslim Indonesia
 | **Ketua Tim** | Abiyu Zada Abinaya | SMA N 9 Yogyakarta |
 | **Anggota** | Aria Agung Jati | SMA N 9 Yogyakarta |
 | **Coach** | Raiya Yusuf Priatmojo | GSE - Global Solusi Edukasi |
-| **Coach** | Yudha | GSE - Global Solusi Edukasi |
+| **Coach** | Fadhilah Yudha Setyanto | GSE - Global Solusi Edukasi |
 
 ## 🏆 Latar Belakang Lomba
 
